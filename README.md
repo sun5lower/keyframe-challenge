@@ -1,6 +1,6 @@
-#Keyframe challenge-MAKE THE BALL JUMP#!!!
+# Keyframe challenge-MAKE THE BALL JUMP 
 
-** This is simple example of basic CSS animation **
+## This is simple example of basic CSS animation 
 
 https://keyframe-challenge-dustyblue.c9users.io/index.html
 
